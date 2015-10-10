@@ -11,3 +11,10 @@ A website :
 -reaches a wider range of users
 -is cheaper to build
 -is more reader friendly
+-has more findability for search
+-can be updated instantly
+
+Nevertheless, a website has less initial function. On the contrary, an app will need a server should you need users to interact with one another?
+Consequently, it is better to start with a website because it requires less initial investment and increases your findability (your webpage can be found on google, you don't have to search in the app store etc).
+Then you can switch to a responsive website, as it will looks different according to the size of the screen.
+Lastly, if you definitely require an App,, you can either use mobile application development frameworks such as PhoneGap or start from scratch with a native App (which provides a lot of flexibility but requires strong investment in the early development)
