@@ -17,4 +17,6 @@ A website :
 Nevertheless, a website has less initial function. On the contrary, an app will need a server should you need users to interact with one another?
 Consequently, it is better to start with a website because it requires less initial investment and increases your findability (your webpage can be found on google, you don't have to search in the app store etc).
 Then you can switch to a responsive website, as it will looks different according to the size of the screen.
-Lastly, if you definitely require an App,, you can either use mobile application development frameworks such as PhoneGap or start from scratch with a native App (which provides a lot of flexibility but requires strong investment in the early development)
+Lastly, if you definitely require an App, you can either use mobile application development frameworks such as PhoneGap or start from scratch with a native App (which provides a lot of flexibility and customization but requires strong investment in the early development)
+Besides, a native app will take advantage only of the operating system for which it is designed. Consequently, it can be only use on the specific OS, Android or Iphone. You will have to recreate a new one for the other competiting OS.
+You should not overlook this requirement when you start your App development project.
